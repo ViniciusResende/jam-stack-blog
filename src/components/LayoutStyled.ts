@@ -34,6 +34,8 @@ export const NavLinks = styled.ul`
   flex-direction: row;
   width: 100%;
   justify-content: space-evenly;
+
+  list-style: none;
 `;
 
 export const NavLinkItem = styled.li`
